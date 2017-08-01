@@ -23,3 +23,8 @@ For 2017:<br>
 For 2018:<br>
 	if (strpos($arrayItem, 'A18') !== false) {<br>
 That's it!<br>
+
+Original / Filtered Screenshots:
+
+![Original](/screenshot2.jpg?raw=true "Original Results")
+![Filtered](/screenshot1.jpg?raw=true "Filtered Results")
